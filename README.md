@@ -2,11 +2,11 @@
 
 ## Часть 1
 - Создать и заполнить таблицы:
-    - Таблица 1:
+    - Таблица 1:  
 ![salespeople](sem3_table1_salespeople.png)
-    - Таблица 2:
+    - Таблица 2:  
 ![customers](sem3_table2_customers.png)
-    - Таблица 3:
+    - Таблица 3:  
 ![orders](sem3_table3_orders.png)
 
 - Выполнить следующие задания:
